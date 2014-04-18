@@ -1,0 +1,10 @@
+*.user
+*.opensdf
+*.sdf
+obj
+/bin/*.dll
+/bin/*.exe
+/bin/*.exp
+/bin/*.ilk
+/bin/*.lib
+/bin/*.pdb
